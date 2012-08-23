@@ -1,0 +1,17 @@
+.project
+.pydevproject
+.settings
+.coverage
+*.pyc
+*.DS_Store
+*~
+.emacs.desktop
+.idea
+.coverage
+sgarcia-testing
+pm-sandbox
+bin
+core/test/coverage
+*.swp
+.google_appengine
+.gaedata/datastore
